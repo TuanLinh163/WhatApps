@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373921399118",
+    "firebase_url": "https://my-whatapps-project.firebaseio.com",
+    "project_id": "my-whatapps-project",
+    "storage_bucket": "my-whatapps-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373921399118:android:2b4881a5e33692e9fa9e1f",
+        "android_client_info": {
+          "package_name": "com.example.whatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373921399118-199e9ucpdifv7u6les5ss2qfs49aoomu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPH8DHpB1CUqri-giKfSrEaaHPDM8EkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373921399118-199e9ucpdifv7u6les5ss2qfs49aoomu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
